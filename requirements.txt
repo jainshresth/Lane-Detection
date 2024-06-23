@@ -1,0 +1,5 @@
+
+### Requirements File (requirements.txt)
+```plaintext
+opencv-python
+numpy
